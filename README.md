@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on App Development<br>I'm currently learning Flutter, Dart, GO Lang<br>I have worked in Android, Web-Development<br>I have worked with languages such as Python, Java, C, etc
 
 
